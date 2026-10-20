@@ -2,7 +2,7 @@
 
 Dự án Next.js thiết kế thiệp Online dành tặng người yêu ngày 20/10.
 
-## 📁 Cấu trúc thư mục
+## 📁 Cấu trúc thư mụcc
 
 ```
 gift/
